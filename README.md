@@ -82,7 +82,7 @@ I am excited to collaborate on impactful projects and contribute to a thriving, 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arinzenwafor&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arinzenwafor&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arinzenwafor&theme=radical" alt="GitHubStreak Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinzenwafor&layout=compact&theme=radical" alt="Top Languages" />
 </div>
