@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Arinze</h1>
-<h3>Aspiring Full-Stack Developer | Passionate About Technology for Positive Change</h3>
+<h3>Full-Stack Developer | Technical Support Engineer | Passionate About Technology for Positive Change</h3>
 
 ---
 
