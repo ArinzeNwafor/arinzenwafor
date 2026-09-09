@@ -4,7 +4,10 @@
 ---
 
 ### 👨🏾‍💻 About Me
-I am a **full-stack developer**, driven by a deep passion for harnessing technology to create impactful solutions that address real-world challenges. Currently, I'm a **third-year Computer Science student** at **McPherson University, Abeokuta**, where I am honing my skills and gaining the expertise needed to excel in this dynamic field.  
+I am a **full-stack developer and technology professional**, driven by a passion for using technology to create impactful solutions to real-world challenges. With a background in **Computer Science**, I have developed hands-on experience in software development, IT, and building digital products.
+
+Through academic, professional, and personal projects, I continue to strengthen my technical expertise while exploring innovative ways to turn ideas into practical, scalable solutions that make a meaningful impact.
+
 
 ### 🚀 My Mission
 Through my studies and projects, I aim to:  
