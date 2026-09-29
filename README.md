@@ -4,7 +4,7 @@
 ---
 
 ### 👨🏾‍💻 About Me
-I am a **full-stack developer and technology professional**, driven by a passion for using technology to create impactful solutions to real-world challenges. With a background in **Computer Science**, I have developed hands-on experience in software development, IT, and building digital products.
+I am a **full-stack developer and technology professional**, with passion for using technology to create impactful solutions to real-world challenges. I have a background in **Computer Science**, I have developed hands-on experience in software development, IT, and building digital products.
 
 Through academic, professional, and personal projects, I continue to strengthen my technical expertise while exploring innovative ways to turn ideas into practical, scalable solutions that make a meaningful impact.
 
